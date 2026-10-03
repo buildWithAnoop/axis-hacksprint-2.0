@@ -1,0 +1,25 @@
+:root {
+  --bg-darkest: #080608;
+  --bg-dark: #120A0D;
+  --bg-plum: #1A0B10;
+  --bg-velvet: #240E17;
+  
+  --color-crimson: #A71930;
+  --color-ruby: #C51F3A;
+  --color-rose: #E63956;
+  
+  --color-cream: #F4E6CE;
+  --color-parchment: #E8D5B5;
+  --color-gold: #C9A45C;
+  --color-brightgold: #E5BE6E;
+  
+  --color-forest: #18251D;
+  --color-emerald: #0D1912;
+  
+  --border-subtle: rgba(244, 230, 206, 0.12);
+  --border-crimson: rgba(197, 31, 58, 0.4);
+  --border-gold: rgba(201, 164, 92, 0.35);
+  
+  --glow-crimson: 0 0 25px rgba(197, 31, 58, 0.45);
+  --glow-gold: 0 0 25px rgba(201, 164, 92, 0.4);
+}

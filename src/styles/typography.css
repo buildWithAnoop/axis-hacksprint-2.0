@@ -1,0 +1,29 @@
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-cormorant {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.font-space {
+  font-family: 'Space Grotesk', monospace;
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #F4E6CE 0%, #E5BE6E 50%, #C9A45C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-crimson-gradient {
+  background: linear-gradient(135deg, #FAF3E8 0%, #E63956 40%, #A71930 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-silver-gradient {
+  background: linear-gradient(135deg, #FFFFFF 0%, #E8D5B5 70%, #9C8E7D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
